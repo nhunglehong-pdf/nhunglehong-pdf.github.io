@@ -2,12 +2,12 @@ navbar:
   - label: Home
     href: ""
   - label: Meditation
-    href: "category/meditation"
+    href: "meditation"
   - label: Poems
-    href: "category/poems"
+    href: "poems"
   - label: Short stories
-    href: "category/short_stories"
+    href: "short_stories"
   - label: Opinions
-    href: "category/opinions"
+    href: "opinions"
   - label: Blog
     href: "blog"
