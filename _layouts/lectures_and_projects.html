@@ -1,0 +1,50 @@
+---
+layout: post
+---
+
+<h3 style="text-align: center; text-decoration: underline;">Lectures</h3><br>
+<div class="index align-left">
+{% for lect in page.lectures %}
+    <section>
+        <header><h3>{{ lect.title }}</h3></header>
+        <div class="content">
+            <ul>
+                {% for tempauthor in lect.authors %}
+                {% assign author = site.data.organizers | map: tempauthor %}
+                {% if author[0] %}
+                <li><strong>{{ author[0].name }}</strong>, {{ author[0].aff }}</li>
+                {% else %}
+                <li>Cannot find field <em>{{ tempauthor }}</em> in <em>organizers.yaml</em></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+            {% assign link = lect.href | strip %}
+            {% assign prefix = link | truncate: 7 %}
+            {% if prefix != 'http...' %}
+            <a href="{{ site.url }}{{ link }}" target="_blank" class="button {% if link == '' %}disabled{% endif %}">Download</a>
+            {% else %}
+            <a href="{{ link }}" target="_blank" class="button">Link</a>
+            {% endif %}
+        </div>
+    </section>
+    <br>
+{% endfor %}
+</div>
+
+<hr>
+
+<h3 style="text-align: center; text-decoration: underline;">Projects</h3><br>
+<div class="index align-left">
+{% for proj in page.projects %}
+    <section>
+        <header><h3>{{ proj.title }}</h3></header>
+        <div class="content">
+            <p>{{ proj.desc }}</p>
+            <a href="{{ site.url }}{{ proj.href }}" target="_blank" class="button">Download</a>
+        </div>
+    </section>
+    <br>
+{% endfor %}
+</div>
+
+<hr>

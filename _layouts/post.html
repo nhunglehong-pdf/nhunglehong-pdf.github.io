@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div id="wrapper" class="divided">
+    {% if page.year %}
+        {% include summer_camp_banner.html %}
+    {% else %}
+        {% include normal_banner.html %}
+    {% endif %}
+    <section class="wrapper style1 align-center">
+        <div class="inner">
+            {%if page.title %}<h2>{{ page.title }}</h2>{% endif %}
+            <div class="align-left">
+                {% if page.date %}<em>Posted on: {{ page.date | date: "%-d/%-m/%Y" }}</em>{% endif %}
+                {% if page.author %}<em>, by {{ page.author }}</em>{% endif %}
+                <br><hr><br>
+                {% if page.feature-img %}
+                <div class="post-image-feature">
+                    <img class="feature-image" src="{{ site.url }}{{ page.feature-img }}" alt>
+                </div>
+                {% endif %}
+                {{ content }}
+            </div>
+        </div>
+    </section>
+</div>
