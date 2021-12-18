@@ -1,0 +1,25 @@
+---
+layout: post
+---
+
+<div class="index align-left">
+{% for paper in page.papers %}
+<section>
+    <header>
+        <h3>{{ paper.title }}</h3>
+    </header>
+    <div class="content">
+        <ul>
+            {% for author in paper.authors %}
+            <li><strong>{{ author.name }}</strong>, {{ author.school }}</li>
+            {% endfor %}
+        </ul>
+        <ul class="actions stacked">
+            <li><a href="{{ site.url }}{{ paper.href }}" target="_blank" class="button">Download</a></li>
+        </ul>
+    </div>
+</section>
+<br>
+{% endfor %}
+</div>
+<hr>
