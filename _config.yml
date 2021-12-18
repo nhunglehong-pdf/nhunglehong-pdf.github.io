@@ -19,15 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 domain: nhunglehong-pdf.github.io
-title: Your awesome title
-email: your-email@example.com
+title: Nhung Le
+email: lehnhung28@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  where I reflect and write
 baseurl: "nhunglehong-pdf.github.io" # the subpath of your site, e.g. /blog
 url: "https://nhunglehong-pdf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-timezone: "Asia/Ho_Chi_Minh"
+timezone: "Asia/Sinagpore"
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
@@ -42,13 +40,10 @@ kramdown:
   math_engine: mathjax
 
 owner:
-  name: PiMA
-  avatar: favicon.png
-  # job: "Student"
-  # bio: "This is the place I keep notes of what I learnt and what I accomplished."
-  # email: thienvhoang99@gmail.com
+  name: Nhung Le
+  avatar: favicon.ico
   disqus-shortname:
-  twitter: ThienVHoang
+  twitter: 
   facebook:
   google:
     analytics:
@@ -56,11 +51,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: hoangvanthien
+  github: nhunglehong-pdf
   stackoverflow:
   linkedin:
   xing:
-  instagram: iamthienhoang
+  instagram:
   lastfm:
   tumblr:
   pinterest:
