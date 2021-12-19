@@ -2,7 +2,7 @@
 layout: post
 title: "Do not go gentle into that goodnight"
 date: '2021-08-23'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Short stories/goodnight.jpg
 excerpt-separator: <!--more-->
 ---
 _Seen at 12:04 AM_

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Last words
-published: true
-comments: true
-tags: [short stories]
 date: '2021-09-16'
+feature-img: /images/Short stories/last_words.jpg
+excerpt-separator: <!--more-->
 ---
 It’s 2am at night. He can’t sleep. The rain sizzles outside, while simultaneously dripping through the leaks and cracks of the shack he calls home. The rooms are empty, without electricity or lighting, with molds and weeds as decorations. Once he couldn’t stand it, but now, when a place to sleep is a luxury, he cannot complain. Instead, he looks through the old decrepit venetian window, the last trace of his past fortune, to the streets. There is an eerie stillness, and more dominantly, desolation. The once glorious city is now a colossal pile of ruins, wretched and defeated by the forces of nature. The streets are filled with broken concrete, furniture, and random items that somebody once held dear. Everything is covered with dust and ash, emitting a sense of ancientness, a reminder that the world as we know it is long gone. His survival now seems to be a mixed blessing, as if fate was playing with him, not allowing him to escape this apocalypse.
 

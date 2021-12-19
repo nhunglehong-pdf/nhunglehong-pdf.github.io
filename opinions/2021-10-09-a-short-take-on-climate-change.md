@@ -3,7 +3,7 @@ layout: post
 title: "A short take on climate change"
 subtitle: Believe it or not, climate change is a type of social inequality
 date: '2021-09-10'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Opinions/climate_change.jpg
 excerpt-separator: <!--more-->
 ---
 “Let’s create a world in which we want our children to grow up,” entrepreneurs in the 20th century said. So they go and create companies across borders, highrises taller than any tree, cities larger than forests, and sums worth more than any mountain. 

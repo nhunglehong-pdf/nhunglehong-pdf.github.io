@@ -2,7 +2,7 @@
 layout: post
 title: "The Day I Deleted My Old Anthology"
 date: '2021-08-08'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Poems/the_day_i_deleted.jpg
 excerpt-separator: <!--more-->
 ---
 The day I deleted my old anthology –  

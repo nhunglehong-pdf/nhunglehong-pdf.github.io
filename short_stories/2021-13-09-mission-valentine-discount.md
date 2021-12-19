@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mission - Valentine Discount"
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Short stories/mission_valentine.jpg
 excerpt-separator: <!--more-->
 date: '2021-09-13'
 ---

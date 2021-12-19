@@ -2,7 +2,7 @@
 layout: post
 title: "Existence of the Schrödinger’s-cat contact"
 date: '2021-08-25'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Meditation/existence_schrodinger_cat.jpg
 excerpt-separator: <!--more-->
 ---
 Three months ago I received her message:

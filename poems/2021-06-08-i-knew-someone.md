@@ -2,7 +2,7 @@
 layout: post
 title: "I knew someone who swore he had no regrets"
 date: '2021-08-06'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Poems/i_knew_someone.jpg
 excerpt-separator: <!--more-->
 ---
 i once met this man who travelled.  

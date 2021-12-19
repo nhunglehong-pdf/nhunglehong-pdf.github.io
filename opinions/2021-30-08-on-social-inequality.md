@@ -2,7 +2,7 @@
 layout: post
 title: "On social inequality"
 date: '2021-08-30'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Opinions/social_inequality.jpg
 excerpt-separator: <!--more-->
 ---
 $100. It could be someone’s daily allowance. Yet, it could also be another person’s monthly spending. This divide continues to exist.  

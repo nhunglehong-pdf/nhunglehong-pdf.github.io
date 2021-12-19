@@ -2,7 +2,7 @@
 layout: post
 title: "dearie honey"
 date: '2021-08-04'
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Poems/dearie_honey.jpg
 excerpt-separator: <!--more-->
 subtitle: >-
   To myself, my best friend and whoever out there struggling with self

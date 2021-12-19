@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Even even even evenly"
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Meditation/even.jpg
 excerpt-separator: <!--more-->
 date: '2021-08-03'
 subtitle: 'Even numbers are a mathematical and even, a linguistic joke.'
