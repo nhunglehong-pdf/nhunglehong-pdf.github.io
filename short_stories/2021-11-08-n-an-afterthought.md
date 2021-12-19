@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An afterthought"
-feature-img: /images/blog/pagerank.jpg
+feature-img: /images/Short stories/an_afterthought.jpg
 excerpt-separator: <!--more-->
 date: '2021-08-11'
 ---
