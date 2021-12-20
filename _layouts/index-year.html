@@ -23,6 +23,27 @@ layout: default
         {% endif %}
     </section>
     {% endfor %}
+
+    {% for section in page.sections %}
+    <section class="spotlight style1 {{ style }} image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2>{{ section.title }}</h2>
+            <p>{{ section.description }}</p>
+            <ul class="actions stacked">
+                <li><a href="{{ section.href }}" class="button">Read More</a></li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="{{ site.url }}/images/{{ page.year }}/{{ section.img }}" alt="" />
+        </div>
+        {% if style == "orient-right content-align-left" %}
+            {% assign style = "orient-left content-align-right" %}
+        {% else %}
+            {% assign style = "orient-right content-align-left" %}
+        {% endif %}
+    </section>
+    {% endfor %}
+    
     {% if page.gallery-section.disable != true %}
     <section class="wrapper style1 align-center">
         <div class="inner">
