@@ -10,7 +10,7 @@ layout: post
     {% assign person = tempperson[0] %}
     <article>
         <a href="{{ site.url }}/images/organizers/{% if person.img %}{{ person.img }}{% else %}default.png{% endif %}" class="image" data-lightbox="organizing-team-{{ year }}" data-title="{{ person.name }}<br>{{ person.aff }}">
-            <img src="{{ site.url }}/images/organizers/{% if person.img %}{{ person.img }}{% else %}default.png{% endif %}" alt="" style="object-fit: cover;" class="pima-avatar"/>
+            <img src="{{ site.url }}/images/organizers/{% if person.img %}{{ person.img }}{% else %}default.png{% endif %}" alt="" style="object-fit: cover;" class="website-avatar"/>
         </a>
         <div class="caption">
             <h3>{{ person.name }}</h3>
