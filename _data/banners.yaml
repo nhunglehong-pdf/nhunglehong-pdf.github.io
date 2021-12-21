@@ -1,15 +1,15 @@
-Meditation:
+meditation:
   title: "Meditation"
   img: "/images/Meditation/banner.jpg"
-Opinions:
+opinions:
   title: "Opinions"
   img: "/images/Opinions/banner.jpg"
-Short Stories:
+short_tories:
   title: "Short Stories"
   subtitle: ""
   desc: ""
   img: "/images/Short Stories/banner.jpg"
-Poems:
+poems:
   title: "Poems"
   subtitle: ""
   img: "/images/Poems/banner.jpg"
