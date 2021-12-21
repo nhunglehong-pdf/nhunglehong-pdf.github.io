@@ -1,4 +1,4 @@
-{% capture key_value %}pima{{ page.year }}{% endcapture %}
+{% capture key_value %}tab{{ page.year }}{% endcapture %}
 {% assign banner_data_tmp = site.data.banners | map: key_value %}
 {% assign banner_data = banner_data_tmp[0] %}
 <section class="banner onload-image-fade-in onload-content-fade-right - style2 image-position-center orient-left content-align-left {{ page.banner }}">

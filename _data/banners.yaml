@@ -1,15 +1,15 @@
-Meditation:
+tabMeditation:
   title: "Meditation"
   img: "/images/Meditation/banner.jpg"
-Opinions:
+tabOpinions:
   title: "Opinions"
   img: "/images/Opinions/banner.jpg"
-Short stories:
+tabShort stories:
   title: "Short Stories"
   subtitle: ""
   desc: ""
   img: "/images/Short Stories/banner.jpg"
-Poems:
+tabPoems:
   title: "Poems"
   subtitle: ""
   img: "/images/Poems/banner.jpg"
