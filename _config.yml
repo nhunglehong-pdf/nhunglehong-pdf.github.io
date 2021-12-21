@@ -30,6 +30,8 @@ markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
 permalink: articles/:year/:month/:title
+post_search: true
+rss-description: This website is a virtual proof that I'm awesome
 
 kramdown:
   auto_ids: true
@@ -42,32 +44,32 @@ kramdown:
 owner:
   name: Nhung Le
   avatar: favicon.ico
-  disqus-shortname:
-  twitter: 
-  facebook:
-  google:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  #disqus-shortname:
+  #twitter: 
+  #facebook:
+  #google:
+    #analytics:
+    #verify:
+    #ad-client:
+    #ad-slot:
+  #bing-verify:
   github: nhunglehong-pdf
-  stackoverflow:
-  linkedin:
-  xing:
-  instagram:
-  lastfm:
-  tumblr:
-  pinterest:
-  foursquare:
-  steam:
-  dribbble:
-  youtube:
-  soundcloud:
-  weibo:
-  flickr:
-  codepen:
-  telegram:
+  #stackoverflow:
+  #linkedin:
+  #xing:
+  #instagram:
+  #lastfm:
+  #tumblr:
+  #pinterest:
+  #foursquare:
+  #steam:
+  #dribbble:
+  #youtube:
+  #soundcloud:
+  #weibo:
+  #flickr:
+  #codepen:
+  #telegram:
 
 exclude:
   - LICENSE
