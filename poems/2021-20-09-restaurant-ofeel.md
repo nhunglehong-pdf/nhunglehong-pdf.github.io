@@ -6,8 +6,8 @@ excerpt-separator: <!--more-->
 date: '2021-09-20'
 ---
 This evening   
-Nobody home 
-As usual
+Nobody home  
+As usual  
 So I eat out  
 Ready to try something new   
 This time maybe my last   
