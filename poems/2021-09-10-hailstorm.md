@@ -3,7 +3,7 @@ layout: post
 title: "Hailstorm"
 feature-img: /images/Poems/hailstorm.jpg
 excerpt-separator: <!--more-->
-date: '2021-10-09-hailstorm'
+date: '2021-10-09'
 ---
 So one night I woke up and clutched my blanket.  
 You know, it’s one of those ones again, when the late midnight chill creeps in  
