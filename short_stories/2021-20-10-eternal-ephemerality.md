@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The story of an eternal ephemerality"
+title: "The story of eternal ephemerality"
 date: '2021-10-20'
 feature-img: /images/Short stories/eternal_ephemerality.jpg
 excerpt-separator: <!--more-->
