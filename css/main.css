@@ -66,4 +66,10 @@
 
 .align-right {
     float: right;
+    size: 70%;
+}
+
+.align-left {
+    float: left;
+    size: 70%;
 }
