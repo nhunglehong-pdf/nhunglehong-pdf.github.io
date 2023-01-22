@@ -4,6 +4,8 @@ title: "Hailstorm"
 feature-img: /images/Poems/hailstorm.jpg
 excerpt-separator: <!--more-->
 date: '2021-10-09'
+prev: 2021-20-09-restaurant-ofeel
+next: 2021-13-10-nghi-ve-em
 ---
 So one night I woke up and clutched my blanket.  
 You know, it’s one of those ones again, when the late midnight chill creeps in  

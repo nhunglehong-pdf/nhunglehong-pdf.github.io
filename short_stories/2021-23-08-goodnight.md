@@ -4,6 +4,8 @@ title: "Do not go gentle into that goodnight"
 date: '2021-08-23'
 feature-img: /images/Short stories/goodnight.jpg
 excerpt-separator: <!--more-->
+prev: 2021-16-09-last-words
+next: 2021-27-09-the-bra
 ---
 _Seen at 12:04 AM_
 

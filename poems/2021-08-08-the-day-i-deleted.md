@@ -4,6 +4,8 @@ title: "The Day I Deleted My Old Anthology"
 date: '2021-08-08'
 feature-img: /images/Poems/the_day_i_deleted.jpg
 excerpt-separator: <!--more-->
+prev: 2021-06-08-i-knew-someone
+next: 2021-12-08-heartspeak
 ---
 The day I deleted my old anthology –  
 A whole file, 49 pieces –  

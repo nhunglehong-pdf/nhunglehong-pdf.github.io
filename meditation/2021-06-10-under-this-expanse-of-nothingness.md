@@ -4,6 +4,8 @@ title: "Under this expanse of nothingness"
 feature-img: /images/Meditation/nothingness.jpg
 excerpt-separator: <!--more-->
 date: '2021-10-06'
+prev: 2021-03-09-words
+next: 2022-04-08-refugees
 ---
 The grass was artificial, a layer of tiny green hair laid over infinite little lumps of black rubber that always found their way into my shoes, where they stubbornly nested until I could finally coax them out. But then, the world was quiet that day. As quiet as it could be, with every noise receding into the distance, fading into gentle murmurs, and the sky sunless and cloudless, emanating pale, grayish-blue light like an Oracle’s orb. And under this expanse of nothingness, I lay on her nap, resting my eyes, cloaked in her warmth.
 

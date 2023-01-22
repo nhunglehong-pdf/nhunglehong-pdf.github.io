@@ -5,6 +5,8 @@ feature-img: /images/Meditation/even.jpg
 excerpt-separator: <!--more-->
 date: '2021-08-03'
 subtitle: 'Even numbers are a mathematical and even, a linguistic joke.'
+prev: 2021-03-08-even-even-even-evenly
+next: 2021-05-08-procrastination
 ---
 **Even numbers are a mathematical and even, a linguistic joke.**
 

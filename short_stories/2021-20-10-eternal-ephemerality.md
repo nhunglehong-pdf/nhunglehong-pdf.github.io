@@ -4,6 +4,8 @@ title: "The story of eternal ephemerality"
 date: '2021-10-20'
 feature-img: /images/Short stories/eternal_ephemerality.jpg
 excerpt-separator: <!--more-->
+prev: 2021-27-09-the-bra
+next: 2022-03-20-under-the-skylight
 ---
 She walks into the coffee shop and settles down on a seat next to the floor-length, plate-glass window, the plain black bag dangling from her left shoulder and one side of the headphones falling from her ear. The window is finely decorated, with various adorable drawings delicately painted using correction pens. Most of those sketches are about love, some about friendship and life. Her favorite one is the cartoon of a stick figure whose face looks blue and heart is replaced with an “x”; there is also a talk bubble popping out, saying “Dear heart, why him?” The drawing struck her from the first time she saw it, since she felt it was much relatable, as if she were the girl herself.
 

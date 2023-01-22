@@ -4,6 +4,8 @@ title: "Heartspeak"
 date: '2021-08-13'
 feature-img: /images/Poems/heartspeak.jpg
 excerpt-separator: <!--more-->
+prev: 2021-08-08-the-day-i-deleted
+next: 2021-15-08-the-ashes
 ---
 May time speak of anything     
 But how it dampens the sparks   

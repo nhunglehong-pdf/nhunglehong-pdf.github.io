@@ -4,6 +4,8 @@ title: "Maze of mirror"
 date: '2021-08-22'
 feature-img: /images/Short stories/maze_of_mirrors.jpg
 excerpt-separator: <!--more-->
+prev: 2021-11-08-n-an-afterthought
+next: 2021-28-08-pieces
 ---
 I opened my eyes to the sound of knocking on the mirrors. I was trapped, yet again. The room apparently had shrunk and the mirror moved close. As a result, the fluorescent lights kept bouncing off the mirror and lit up the entire room, making the room both pale and bright. Or hallway, to describe it more correctly as the room now stretched on so far that reflections bounced off each other. I turned my head sideways and looked at the mirror. Finally, I saw myself. He was knocking for me. I saw my face, my skinny body, and my eyes. Yet he was not exactly me. He had slicked combed-back hair and a light smirk, exuberating a confidence I had never possessed. And he wore a suit, with an actual tie and everything. I never owned such a fancy-looking suit. Or any kind of suit at all to be honest. Behind him was a team of enviers, checking out some brand-famous car he owned. He was like someone from the Fortune 500 or something. The next mirror showed another me knocking on the surface of the glass. This cool-looking dude got the look cut out of the latest fashion paper – white t-shirt, denim jeans. He didn’t need the spotlight, he was the spotlight. Everyone was turning back to check out who he was. And I looked back at my bony self and asked: Who am I?
 

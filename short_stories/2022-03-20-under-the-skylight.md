@@ -4,6 +4,8 @@ title: "Under the skylight"
 date: '2022-03-20'
 feature-img: /images/Short stories/skylight.jpg
 excerpt-separator: <!--more-->
+prev: 2021-20-10-eternal-ephemerality
+next: 2022-03-20-under-the-skylight
 ---
 It was all dark around, silent and still. The air was calm and only the electric fan busied itself steadying its wings’ motion, with a humming sound that bounced among the dimly lit walls. Fortunately I came and graced the fan’s solitary business with my lively society: my bags rubbing against one another, my heavy tramp that tinged my footfall with an aspect of laggardness, zip teeth snapping as they clenched in or broke out of the line, and my lungs as they drew in the air upon pulses that counted toward sleep. Soon everything was settled and silent again; I didn’t sleep through but thought it fit to meditate (a.k.a eschewing my unfinished homework) under the tranquil shadow. Meanwhile, my aunt and uncle were still lying sound in their slumber in another room, troubled though they would be with the daily litany of babysitting and housekeeping once they were removed from these salving early hours.
 
@@ -39,7 +41,7 @@ Perhaps watching her niece growing up provided Aunt a chance to grieve a life sh
 Perhaps the dictating, governess-like manner reserved for me was her attempt to compensate, to salvage the remnants of a younger Aunt who didn’t know better.  
 Perhaps she, who committed follies, couldn’t bear to let “a miniature version of herself” loose, just to suffer from the same mistakes. Stripped of choices, dreams, and fulfillment. Yielded to the rigged game of societal norms that rendered her obsolete.  
 
-It did rain today. I wondered what Aunt saw when she looked up at the brightening skylight’s glass panes that sparkled like a kaleidoscope after the drizzle. But she was too occupied with retrieving the hanging laundry for the vibrant colors to even land in her eyesight. “Oh” - she uttered at the sudden wail that emerged, panicked as if it was blaring sirens she heard: 
+It did rain today. I wondered what Aunt saw when she looked up at the brightening skylight’s glass panes that sparkled like a kaleidoscope after the drizzle. But she was too occupied with retrieving the hanging laundry for the vibrant colors to even land in her eyesight. “Oh” - she uttered at the sudden wail that emerged, panicked as if it was blaring sirens she heard:  
 “Baby-A woke up. Can you take down the rest of the clothes for auntie?”  
 I nodded. The creaking floorboard followed aunt’s footsteps back in, accompanied by her lullaby rhymes that mimicked the rise and fall of a lake surface hit by the rain.
 

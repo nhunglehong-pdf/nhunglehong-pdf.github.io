@@ -4,6 +4,8 @@ title: "Existence of the Schrödinger’s-cat contact"
 date: '2021-08-25'
 feature-img: /images/Meditation/existence_schrodinger_cat.jpg
 excerpt-separator: <!--more-->
+prev: 2021-23-09-mixed
+next: 2021-03-09-words
 ---
 Three months ago I received her message:
 

@@ -4,6 +4,8 @@ title: "Mission - Valentine Discount"
 feature-img: /images/Short stories/mission_valentine.jpg
 excerpt-separator: <!--more-->
 date: '2021-09-13'
+prev: 2021-28-08-pieces
+next: 2021-16-09-last-words
 ---
 My mission for that day was simple. I woke up at 7 on a heavy snow day, the horrifying view of whiteness on the window greeted me. However, the true horror lay beneath the whiteness – my objective for that day.
 

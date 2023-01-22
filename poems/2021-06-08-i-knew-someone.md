@@ -4,6 +4,8 @@ title: "I knew someone who swore he had no regrets"
 date: '2021-08-06'
 feature-img: /images/Poems/i_knew_someone.jpg
 excerpt-separator: <!--more-->
+prev: 2021-04-08-dearie-honey
+next: 2021-08-08-the-day-i-deleted
 ---
 i once met this man who travelled.  
 his sleeves smelled like damp undergrowth, airplane exhaust, and  
