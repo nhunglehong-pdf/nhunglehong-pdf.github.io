@@ -9,5 +9,5 @@ navbar:
     href: "short_stories"
   - label: Opinions
     href: "opinions"
-  - label: Blog
-    href: "blog"
+  - label: Astrology
+    href: "astro"
