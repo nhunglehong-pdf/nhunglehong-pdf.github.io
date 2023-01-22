@@ -22,10 +22,14 @@ layout: default
                 {% endif %}
                 {{ content }}
                 {% if page.prev %}
-                    <a href="{{ page.prev }}" alt class="button">Previous post</a>
+                    <a show=true href="{{ page.prev }}" alt class="button">Previous post</a>
+                {% else %}
+                    <a show=false href="{{ page.prev }}" alt class="button">Previous post</a>
                 {% endif %}
                 {% if page.next %}
-                    <a href="{{ page.next }}" alt class="button align-right">Next post</a>
+                    <a show=true href="{{ page.next }}" alt class="button align-right">Next post</a>
+                {% else %}
+                    <a show=false href="{{ page.next }}" alt class="button align-right">Next post</a>
                 {% endif %}
             </div>
         </div>
