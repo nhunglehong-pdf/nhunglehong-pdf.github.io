@@ -21,16 +21,10 @@ layout: default
                 </div>
                 {% endif %}
                 {{ content }}
-                {% if page.prev %}
-                    <a show=true href="{{ page.prev }}" alt class="button">Previous post</a>
-                {% else %}
-                    <a show=false href="{{ page.prev }}" alt class="button">Previous post</a>
-                {% endif %}
-                {% if page.next %}
-                    <a show=true href="{{ page.next }}" alt class="button align-right">Next post</a>
-                {% else %}
-                    <a show=false href="{{ page.next }}" alt class="button align-right">Next post</a>
-                {% endif %}
+                    <a {% if page.prev %} show=true {% else %} show=false {% endif %} href="{{ page.prev }}" alt class="button">Previous post</a>
+                
+                    <a {% if page.next %} show=true {% else %} show=false {% endif %} href="{{ page.next }}" alt class="button align-right">Next post</a>
+                
             </div>
         </div>
     </section>
