@@ -21,9 +21,9 @@ layout: default
                 </div>
                 {% endif %}
                 {{ content }}
-                    <a {% if page.prev %} show=true {% else %} show=false {% endif %} href="{{ page.prev }}" alt class="button">Previous post</a>
+                    <a {% if page.prev %} aria-disabled="false" {% else %} aria-disabled="true" {% endif %} href="{{ page.prev }}" alt class="button">Previous post</a>
                 
-                    <a {% if page.next %} show=true {% else %} show=false {% endif %} href="{{ page.next }}" alt class="button align-right">Next post</a>
+                    <a {% if page.next %} aria-disabled="false" {% else %} aria-disabled="true" {% endif %} href="{{ page.next }}" alt class="button align-right">Next post</a>
                 
             </div>
         </div>
