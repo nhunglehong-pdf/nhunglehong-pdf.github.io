@@ -21,8 +21,8 @@ layout: default
                 </div>
                 {% endif %}
                 {{ content }}
-                    <button href="{{ page.prev }}" class="button">Previous post</button>
-                    <button href="{{ page.next }}" class="align-right">Next post</button>
+                    <button href="{{ site.url }}{{ page.prev }}" class="button">Previous post</button>
+                    <button href="{{ site.url }}{{ page.next }}" class="align-right">Next post</button>
             </div>
         </div>
     </section>
