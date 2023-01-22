@@ -53,6 +53,8 @@
 .post-image-feature {
     margin-top: 30px;
     margin-bottom: 30px;
+    max-height: 300px;
+    width: auto;
 }
 .post-image-feature .feature-image {
     display: block;
