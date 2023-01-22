@@ -21,6 +21,12 @@ layout: default
                 </div>
                 {% endif %}
                 {{ content }}
+                <ul class="actions stacked">
+                    <li><a style="text-align:left" href="{{ page.gallery-section.href }}" class="button">Previous post</a></li>
+                </ul>
+                <ul class="actions stacked">
+                    <li><a style="text-align:right" href="{{ page.gallery-section.href }}" class="button">Next post</a></li>
+                </ul>
             </div>
         </div>
     </section>
