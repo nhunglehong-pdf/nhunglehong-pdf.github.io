@@ -63,3 +63,7 @@
     width: auto;
     border-radius: 8px
 }
+
+.align-right {
+    float: right;
+}

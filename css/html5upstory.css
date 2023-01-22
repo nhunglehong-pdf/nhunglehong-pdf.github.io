@@ -2200,10 +2200,6 @@ input, select, textarea {
 			color: #47D3E5 !important;
 		}
 
-	.align-right {
-		float: right;
-	}
-
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
