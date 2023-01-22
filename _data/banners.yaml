@@ -16,4 +16,4 @@ tabPoems:
 tabAstro:
   title: "Astrology"
   subtitle: ""
-  img: "images/Astro/banner.jpg"
+  img: "/images/Astro/banner.jpg"
