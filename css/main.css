@@ -59,5 +59,7 @@
 .post-image-feature .feature-image {
     display: block;
     margin: 0 auto;
+    max-height: 600px;
+    width: auto;
     border-radius: 8px
 }
