@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   where I reflect and write
 baseurl: "nhunglehong-pdf.github.io" # the subpath of your site, e.g. /blog
 url: "https://nhunglehong-pdf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-timezone: "Asia/Sinagpore"
+timezone: "Asia/Singapore"
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->

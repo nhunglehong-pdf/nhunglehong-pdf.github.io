@@ -13,3 +13,7 @@ tabPoems:
   title: "Poems"
   subtitle: ""
   img: "/images/Poems/banner.jpg"
+tabAstro:
+  title: "Astrology"
+  subtitle: ""
+  img: "images/Astro/banner.jpg"
