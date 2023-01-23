@@ -5,7 +5,7 @@ date: '2021-10-02'
 feature-img: /images/Opinions/astrology.jpg
 excerpt-separator: <!--more-->
 prev: 2021-10-09-a-short-take-on-climate-change
-next: 2021-02-10-is-astrology-immune-to-the-patriachy
+next: 2022-03-11-women-better
 ---
 There’s a consensus among the community of scientists and science-enthusiasts (whom I desperately tried to gain approval from) which frowned upon astrology as a pseudoscience that too often gets wrongly assumed to be scientific. Being the logical scientist-wanna-be that I am, I did the only reasonable thing: get into astrology. Seriously, can you blame me though, since astrology is just that irresistable. It got me hooked up on the mythological stories and hidden elements that need to be deciphered, and boy did I decipher. I was even close to charging a price for a birth chart reading service which became so popular among my friends. Astrology lured me into its miraculous world so appealing to a long-eschewed part of me that still believes in ghosts, fate and unicorns. 
 
