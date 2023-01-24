@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Tender is the Flesh - Review"
+date: '2022-06-13'
+feature-img: /images/Opinions/tender-flesh.jpg
+excerpt-separator: <!--more-->
+prev: 2022-03-11-women-better
+next: 2022-09-14-dune
+---
+Lately, I’ve been dwelling on grossness.
+
+I don’t know what it is, really. An accumulation of Tumblr posts, the nasty reality of homelessness, the time of the year. The season changes from summer to fall. Out come to skeletons picked clean of flesh, the ghosts sans rotting bodies. Everything is spooky; nothing is scary.
+
+We are, each of us, gifted with bodies with functions unlovely. We shit, we fart, we burp, we vomit. There’s drool crusted on our faces when we wake, and crusties caught in the corner of our eyes. Our pee sometimes smells strange. On occasion, we itch in unpleasant places and scratch sans abandon. We bleed, we ooze! Half the population regularly passes huge clots of blood! Vaginal discharge bleaches underwear! The human body is all awkward meat and smells, a thing that is warm and weird and lovely.
+
+So often I feel that horror doesn’t reflect the facts of the body. It’s too sanitize or else the violence is too bombastic, so far removed from the reality of living that the killing becomes meaningless. Blood means nothing. The body is only meat, head to be crushed and abused for the sake of crushing, abusing.
+
+In a society of denial, Tender is the Flesh by Agustina Bazterrica is a revelation. It’s filthy, it’s fetid. People (white people, rich people, people who can afford to be cruel) are at their absolute worst. They are greedy, indivualistic, self-centered. They believe what they are told without question, eat and destroy without consideration. They consume to consume, nervously and then happily constructing truths that best serve to obscure the fact that all of them, every last one, is a killer and a cannibal.
+
+There’s nothing clean about Tender is the Flesh, nothing sanitized. Bazterrica writes sharply and unapologetically of the racism and greed that went into the creation of a cannibalistic society. The words in Tender in the Flesh are living, breathing things, sometimes more human than the mouths that speak them. They are light with non-meaning, or else they are heavy with purpose. Like a cow rendered into many parts, nothing is wasted, not a single comma or period or pause.
+
+So many times while reading, I wondered what the point was. What was the lesson? Why was it so ugly? So nasty? In my reading journal, I wrote, “What’s the point? Cruelty? Viciousness? It’s all so vile.” It comes to me now, writing thse ruminations, that ugliness was the point. I was meant to be disgusted, I ws meant to be sickened. I was meant to leave reading this book dizzy and nauseous, as stunned as the heads struck down by the club. There was no comfort, no soothing end. Only myself, drained of blood, carted from scene to scene to scene to witness horror after horror.
+
+This was not a patient book. It grabbed me in the first chapter and dragged me along by my hair, forcing me to look into rooms smeared with blood, rooms splattered with gore. Through the disaffected, bleary eyes of the protagonist, I bore witness to a folder of human skins, a butcher boredly chopping human carcasses, and a big game hunter who now hunted the most dangrous game. I shook hands with them, these people, these creatures, who stunned, broke, destroyed, mortified and transmogrified the human body into something digestible.
+
+Well, maybe not digestible. So many scenes got stuck in my throat, or else they fought their way back up from my stomach. Like Upton Sinclair leading you through the hideous underbelly of the meatpacking industry in his novel The Jungle, Bazterric led me through bright, white rooms shocked by dessicrated corpses. In this room, people dressed in white use chainsaws to carve a body to send to the butcher’s. In this room, a breeder discusses genetically modifying the bodies of Black and brown people to make them tastier for fast food, better for rendering into fat. Even after being escorted out of the sanitized halls of the slaughterhouse, I was surrounded by flesh, by horror. Game hunters laugh while describing tracking down pregnant people (they’re fiestier), people in deep debt selling their flesh for a chance to escape poverty. A scientist on par with Mengele gestures to bodies rigged up as test-drive dummies and asks that she be delivered a hardier bunch. All the ones in her lab fall apart too easily, you see, when smashed and crushed like so much meat.
+
+What a world. Here were human beings at their worst, greedy and hunger, picking at corpses and deciding (purely on capitalistic, racist whim) that some flesh was sacred and others were only meat. Though I often read horror that makes me queasy (gratuitous violence and rape scenes penned by old white dudes will do that to you), Tender is the Flesh is one of the few horror pieces I’ve read that made me sick. It was disgusting, it was lovely. It was a dagger digging at the infected wound of capitalism, gouging out chunks of eugenics and of racism, of anti-Blackness.
+
+As I stuck my fingers into this festering sore of a book, I found myself thinking of the artist Cao Hui. I was introduced to him through Jacob Geller. More specifically, GROSS GAMES ABOUT FLESH AND STUFF, a video essay he published a month back about video games that are decidedly fleshy. Cao Hui’s art is all flesh, all chairs spilling out intestines and the meaty, fattiness of coats. Gloves made of skin, a suitcase packed with meat; you feel it, visceral and heavy, in your stomach —something was killed to make this.
+
+> I think artists really want to play god more than anything else, and will stop at nothing to construct a truth that validates the self. They first delude themselves, then maybe move on to people around them.” — Cao Hui’s Artist Statement
+
+We lose so much, denying the body. Everyone is beautiful, and nothing is vile. Everyone is beautiful, and no one is sick, constipated, sorry, hungry, remorseful, sobbing, heaving, shitting, puking. Everyone and everything is slick and smooth, and no one, nothing is human.
+
+I admit, I used to hate gross-out horror. I thought it was cheap, easy. I thought it was better to stick to the mind and all of its complexity. I thought the body was too sacred to be ruined, too perfect to be bothered by blood, but I see it clearly now, the beauty that comes with brutality. We are, all of us, such gorgeous things. It matters that be breathe. It matters when our breaths stop. It matters when we are so scared that we piss ourselves, it matters that we evacuate our bowels when we we die. It matters that our intenstines are shimmying, shivering inside of us, and it matters that saliva is just filtered down blood. It matters and it’s beautiful when media does not shy away from the reality of owning a body. It is as if to say, “This is mine. It cannot be airbrushed or advertised away. It is what it is, and sometimes it’s gross, and sometimes it’s lovely.” The body is all we have.
+
+So, let us be disgusting! Let’s watch a John Waters film and marvel at the grossness of Divine as Babs Johnson! Let’s read Audition by Ryu Murakami and cringe at the thought of a dog bowl full of vomit! Sink into a couch of red meat, dress yourself in a suit of skin and viscera. Listen as Agustina Bazterrica cries out, screaming, “Tender is the flesh!” Pick up a pack of meat from the grocery store and look at it, really look at it! All that pink and red, all that precious blood that came from something dying for you to eat. Consider the bodies around you, all that gunk and sick and perfect flesh! Be sated by what sickens you, worship what revolts you. And now, vomit.

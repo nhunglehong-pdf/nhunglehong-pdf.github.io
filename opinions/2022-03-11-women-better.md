@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "“Women have never had it better.” How true is this?"
-date: '2021-11-03'
+date: '2022-03-11'
 feature-img: /images/Opinions/women-better.jpg
 excerpt-separator: <!--more-->
 prev: 2021-02-10-is-astrology-immune-to-the-patriachy
-next: 
+next: 2022-06-13-tender-flesh
 ---
 From the Time’s Up movement, to the United Nation’s championing of gender parity by 2030 under its Sustainable Development Goals, to Hillary Clinton being the first woman to run for President of the United States, the world has seen a paradigm shift in the treatment of women. In retrospect, it would appear that women have been emancipated from the shackles of patriarchy – while the first feminist wave in the 1920s focused primary on women’s suffrage, the fourth feminist wave that the world is currently experiencing has expanded its reach to include bodily autonomy, body positivity and intersectional feminism. The mere fact that the focus of the feminist movement has been broadened appears to indicate that women’s status in contemporary society has been elevated in an unprecedented manner. Because of the aforementioned trends and observations, some may argue that women have never had it better, for reasons including a conspicuous shift in mindsets in terms of women’s roles in society, as well as the provision of more comprehensive legislative rights which have appeared to empower women. However, I would view this perspective to be rather quixotic, and instead argue that it is fallacious to claim that women have never had it better, due to reasons including the entrenchment of beliefs in society which has actually impeded and precluded further progress, and the reversal of women’s liberties and rights.
 
