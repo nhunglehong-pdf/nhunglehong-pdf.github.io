@@ -8,9 +8,9 @@ img: second-act-breakup.jpg
 prev: 2022-04-08-refugees
 next: 2023-01-12-phineas-n-ferb
 ---
-A little while ago I saw a post by somebody who said they weren't typically a romance fan but had been reading a lot of romance lately because it was so readily available to them. They said they mostly liked it, but they couldn't understand the point of the ever-present Second Act Breakup and were frustrated by it.
+A little while ago I saw a post by somebody who said they weren't typically a romance fan but had been reading a lot of romance lately because it was so readily available. They said they mostly liked it, but they couldn't understand the point of the ever-present Second Act Breakup and were frustrated by it.
 
-Listen. I know it was rhetorical. So that's why I'm answering that question generally rather than directly. Here are some reasons the Second Act Breakup is utilized in romance.
+I'm aware the question was rhetorical. So that's why I'm answering generally rather than directly. Here are some reasons the Second Act Breakup is utilized in romance.
 
 **Strengthening the Characters Individually**
 
@@ -34,9 +34,10 @@ This is most obvious in romances where a main source of conflict stems from the 
 
 To use Marry Me as an example again (I just saw it, so it's fresh on the brain), in act one the main character conflict is Kat's history of being wronged by her partners and her recent and explosive breakup. In act two, the focus is on Charlie's insecurity and fear of heartbreak. Kat's conflict with being in love with Charlie has been surmounted, and now it's time to deal with Charlie's conflict with being in love with Kat.
 
-The second act breakup also makes room for side characters to take bigger roles, or to have their own relationships. 
+The second act breakup also makes room for side characters to take bigger roles, or to discover their own relationships. 
 
-Switching from External to Internal Conflict (or Vice Versa)
+**Switching from External to Internal Conflict (or Vice Versa)**
+
 Much the same as the character focus switch, the second act breakup provides a way to change focus from an external conflict to an internal conflict, or vice versa.
 
 Say act one is about the hero thinking the love interest is out of their league, but there is also the conflict that the love interest's family disapproves of the match. Trying to explore both of those conflicts to their fullest potential concurrently will be very muddled and make for an unpleasantly complicated read. A second act breakup provides a way to focus on one, and then switch to the other.
