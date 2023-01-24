@@ -5,7 +5,7 @@ date: '2022-06-13'
 feature-img: /images/Opinions/tender-flesh.jpg
 excerpt-separator: <!--more-->
 prev: 2022-03-11-women-better
-next: 2022-09-14-dune
+next: 2022-12-20-ai-art
 ---
 Lately, I’ve been dwelling on grossness.
 
