@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why is there a Second Act Breakup?"
-feature-img: /images/Meditation/refugees.jpg
+feature-img: /images/Meditation/second-act-breakup.jpg
 excerpt-separator: <!--more-->
 date: '2022-04-08'
-img: refugees.jpg
+img: second-act-breakup.jpg
 prev: 2022-04-08-refugees
 next: 2023-01-12-phineas-n-ferb
 ---
