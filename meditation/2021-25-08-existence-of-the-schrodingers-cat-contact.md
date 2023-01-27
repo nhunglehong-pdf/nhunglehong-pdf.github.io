@@ -10,7 +10,7 @@ next: 2021-03-09-words
 Three months ago I received her message:
 
 
-“Do you want to play with this pussy?
+“Do you want to play with this p*ssy?
 
 
 Meow…”
