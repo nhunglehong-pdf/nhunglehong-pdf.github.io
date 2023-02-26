@@ -6,7 +6,7 @@ excerpt-separator: <!--more-->
 date: '2023-01-12'
 img: phineas-n-ferb.jpg
 prev: 2022-10-14-second-act-breakup
-next: 
+next: 2023-01-23-vampire-queerness
 ---
 Phineas and Ferb embodies the antithesis of hustle and crunch culture because the fundamental lesson of every single episode is that your passions are no less fulfilling if they only last for one afternoon. You are no less passionate, just because you are passionate about a variety of things or even an entirely different thing every day. And your achievements aren’t worth less just because the fruits of your labor disappear. Even if there is no proof that you did anything, nothing to show what you accomplished, no material gain for all your hardwork; that doesn’t mean you left empty-handed.
 
