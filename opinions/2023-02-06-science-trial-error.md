@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " "Science is just a fancy word for trial and error; he who places his trust in it is a fool." "
-date: '2023-02-06-20'
+date: '2023-02-06'
 feature-img: /images/Opinions/science-trial-error.jpg
 excerpt-separator: <!--more-->
 prev: 2022-12-20-ai-art
