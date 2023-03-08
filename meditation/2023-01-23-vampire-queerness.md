@@ -6,7 +6,7 @@ excerpt-separator: <!--more-->
 date: '2023-01-23'
 img: vampire-queerness.jpg
 prev: 2023-01-12-phineas-n-ferb
-next: 
+next: 2023-03-02-aging-women
 ---
 Vampires are inherently queer characters. Their queerness is represented in countless texts including Bram Stoker’s novel, *Dracula* (1897), Sheridan Le Fanu’s novella, *Carmilla* (1872), the film *Interview with the Vampire* (1994), and Rainbow Rowell’s novel *Carry On* (2015). Vampires’ queerness is enforced by a multitude of factors; notably the sexual nature of a vampire itself, the relationship vampires have with ‘normal’ society, and the inherent evilness behind vampires. 
 
