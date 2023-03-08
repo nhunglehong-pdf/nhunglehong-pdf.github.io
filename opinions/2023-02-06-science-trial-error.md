@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Science is just a fancy word for trial and error; he who places his trust in it is a fool.*"
+title: "Science is just a fancy word for trial and error; he who places his trust in it is a fool."
 date: '2023-02-06'
 feature-img: /images/Opinions/science-trial-error.jpg
 excerpt-separator: <!--more-->
@@ -16,4 +16,4 @@ While the above highlights the role of trial and error in science, however, it f
 
 Moreover, even if science were just a form of trial and error, its effectiveness at describing and predicting the physical world gives us great pragmatic justification for it as a form of knowledge. Newtonian physics may have turned out to be an “error” upon the birth of relativity, but it still tells us how projectiles will move with sufficient detail to send man to the moon and back. Thus the layman’s decision to trust in a potential scientific “error” is not foolish, but very useful for his daily life because he can know that the “error” is extremely close to the truth in terms of the predictions it makes. Life would be worse if we did away with clocks because they cannot tell time at the same rate due to the Earth’s rotation and relativistic effects.
 
-In conclusion, trial and error’s role in science is not total, and it helps science correspond to reality and be useful to us far more than its errors may hinder us.
+Trial and error’s role in science is not total, and it helps science correspond to reality and be useful to us far more than its errors may hinder us.
