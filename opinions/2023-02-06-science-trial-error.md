@@ -5,7 +5,7 @@ date: '2023-02-06'
 feature-img: /images/Opinions/science-trial-error.jpg
 excerpt-separator: <!--more-->
 prev: 2022-12-20-ai-art
-next: 
+next: 2023-02-18-quark-ferengi
 ---
 Since human prehistory, most people believed that the universe had a beginning. Then came the scientific discovery of the conservation of mass and energy in the scientific revolution, and science boldly proclaimed that an outdated ancient myth. That is, until Edwin Hubble discovered the expansion of the universe, and the scientific consensus embarrassingly returned to the idea of a cosmic beginning. Could it be that the science responsible for all this is just a fancy word for trial and error, and that he who places his trust in it is a fool? I believe otherwise, for all of its reliance on falsification by experiment and its struggle to distinguish one theory’s supremacy over another on any other grounds, science remains a useful guide to the world.
 
